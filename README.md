@@ -9,7 +9,7 @@
 - **NIM:** H1D024030
 - **Shift Awal:** A
 - **Shift Akhir:**  C
-- **Link Video Demo/Penjelasan:** 
+- **Link Video Demo/Penjelasan:** https://youtu.be/I-EoiZqzXOc?si=Xl5BPLh309_7G99d
 
 ---
 
